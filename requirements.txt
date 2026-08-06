@@ -1,0 +1,6 @@
+discord.py>=2.4.0
+aiohttp>=3.9.0
+python-dotenv>=1.0.0
+Flask>=3.0.0
+yt-dlp>=2024.12.13
+python-telegram-bot>=21,<22
